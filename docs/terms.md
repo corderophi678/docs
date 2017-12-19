@@ -90,7 +90,7 @@ The content feed is a hypercore feed containing the file contents for a Dat arch
 
 ### Hyperdrive
 
-[Hyperdrive](https://github.com/mafintosh/hyperdrive) is peer to peer directories. We built hyperdrive to efficiently share scientific data in real time between research institutions. Hyperdrive handles the distribution of files while encrypting data transfer and ensuring content integrity. Hyperdrive creates append-only logs for file changes allow users to download partial datasets and to create versioned data. Hyperdrive is built on hypercore.
+[Hyperdrive](https://github.com/mafintosh/hyperdrive) is peer to peer directories. We built hyperdrive to efficiently share scientific data in real time between research institutions. Hyperdrive handles the distribution of files while encrypting data transfer and ensuring content integrity. Hyperdrive creates append-only logs for file changes to allow users to download partial datasets and to create versioned data. Hyperdrive is built on hypercore.
 
 Archives created with hyperdrive are made with two feeds, one for the metadata and one for the content.
 
